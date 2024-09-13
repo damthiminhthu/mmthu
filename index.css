@@ -1,0 +1,21 @@
+/* Tạo file myStyle.css */
+
+.Tieu_de {
+    font-weight: bold;
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 18pt;
+}
+
+.Noi_dung {
+    font-style: italic;
+    color: purple;
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+}
+
+.Sieu_lien_ket {
+    font-style: italic;
+    text-decoration: none;
+    color: green;
+}
